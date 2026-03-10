@@ -1,4 +1,4 @@
-# E-Commerce Reusable Components – Next.js, Tailwind CSS Frontend Fundamental Tutorial 1
+# E-Commerce Reusable Components – Next.js, TypeScript, TailwindCSS Fundamental Project 1
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
@@ -10,8 +10,9 @@ A comprehensive, production-ready collection of reusable e-commerce UI component
 
 **Live Demo:** [https://freelance-qllp.vercel.app/](https://freelance-qllp.vercel.app/)
 
-![Screenshot 2025-07-07 at 01 13 39](https://github.com/user-attachments/assets/202a9e1b-3fde-4b28-9006-caffe4b204e8)
-![Screenshot 2025-07-07 at 01 14 50](https://github.com/user-attachments/assets/af966c07-ad13-4b3c-9a98-aa632dc79bc2)
+<img width="1460" height="948" alt="Screenshot 2026-03-10 at 16 03 24" src="https://github.com/user-attachments/assets/561f9b39-94fd-450f-9b01-fc0fa2505878" />
+<img width="1357" height="929" alt="Screenshot 2026-03-10 at 16 03 43" src="https://github.com/user-attachments/assets/2e4e7f14-cd71-41b2-915b-5c907c730c3b" />
+<img width="1492" height="953" alt="Screenshot 2026-03-10 at 16 04 06" src="https://github.com/user-attachments/assets/4d958d17-5d41-4a16-9523-ad0e87cd9d88" />
 
 ## 📋 Table of Contents
 
