@@ -1,4 +1,4 @@
-# E-Commerce Reusable Components – Next.js, TypeScript, TailwindCSS Fundamental Project 1
+# Category Filter, Product View Detail, Reel, Cart, Pagination, Quantity Selection – Next.js, TypeScript, TailwindCSS Fundamental Project 1
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
@@ -10,9 +10,9 @@ A comprehensive, production-ready collection of reusable e-commerce UI component
 
 **Live Demo:** [https://freelance-qllp.vercel.app/](https://freelance-qllp.vercel.app/)
 
-<img width="1460" height="948" alt="Screenshot 2026-03-10 at 16 03 24" src="https://github.com/user-attachments/assets/561f9b39-94fd-450f-9b01-fc0fa2505878" />
-<img width="1357" height="929" alt="Screenshot 2026-03-10 at 16 03 43" src="https://github.com/user-attachments/assets/2e4e7f14-cd71-41b2-915b-5c907c730c3b" />
-<img width="1492" height="953" alt="Screenshot 2026-03-10 at 16 04 06" src="https://github.com/user-attachments/assets/4d958d17-5d41-4a16-9523-ad0e87cd9d88" />
+![Screenshot 2026-03-10 at 16 03 24](https://github.com/user-attachments/assets/561f9b39-94fd-450f-9b01-fc0fa2505878)
+![Screenshot 2026-03-10 at 16 03 43](https://github.com/user-attachments/assets/2e4e7f14-cd71-41b2-915b-5c907c730c3b)
+![Screenshot 2026-03-10 at 16 04 06](https://github.com/user-attachments/assets/4d958d17-5d41-4a16-9523-ad0e87cd9d88)
 
 ## 📋 Table of Contents
 
