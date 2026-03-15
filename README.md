@@ -1,4 +1,4 @@
-# Category Filter, Product View Detail, Reel, Cart, Pagination, Quantity Selection – Next.js, TypeScript, TailwindCSS Frontend Fundamental Project 1
+# Category Filter, Product View Detail, Reel, Cart, Pagination, Quantity Selection – Next.js, TypeScript, TailwindCSS Frontend Fundamental Project 1 (Ecommerce Resuable Components)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
